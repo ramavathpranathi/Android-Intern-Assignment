@@ -1,0 +1,26 @@
+# 📱 Job Finder App  
+
+A modern **Job Finder App** that allows users to browse job listings, view job details, and bookmark jobs for offline access. The app provides a seamless experience with infinite scrolling, state management, and a clean UI/UX.  
+
+## 🚀 Features  
+
+- **Bottom Navigation**: Switch between "Jobs" and "Bookmarks" sections easily.  
+- **Infinite Scroll**: Fetch job listings dynamically from an API.  
+- **Detailed Job View**: Click on a job to see all relevant details.  
+- **Bookmark Jobs**: Save jobs for later viewing, even offline.  
+- **Offline Storage**: Bookmarked jobs are stored in a local database.  
+- **State Management**: Handles loading, error, and empty states gracefully.  
+
+## 🛠️ Tech Stack  
+
+- **Frontend**: [Your UI framework/library, e.g., React Native, Flutter]  
+- **State Management**: [Redux, Provider, etc., if used]  
+- **Backend**: Fetches data from an API  
+- **Storage**: Local database for bookmarked jobs  
+
+
+
+
+
+
+
